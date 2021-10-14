@@ -1,0 +1,2 @@
+# fsid
+Fast string identifier
